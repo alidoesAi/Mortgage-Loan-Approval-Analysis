@@ -1,0 +1,4 @@
+*.Rmd linguist-language=R
+*.html linguist-generated=true
+*.csv linguist-detectable=false
+*.pdf binary
